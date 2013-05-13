@@ -15,7 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   font-family: 'Droid Serif', serif;
-  font-size: 1em;
+  font-size: small;
   text-align: center;
 }
 
@@ -69,7 +69,10 @@ ul.posts span {
 }
 
 .site .header {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
   margin-bottom: 2em;
+  text-align: center;
 }
 
 .site .header a {
@@ -77,10 +80,8 @@ ul.posts span {
 }
 
 .site .header h1.title {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 700;
-  font-size: 2em;
-  display: inline-block;
+  font-size: 3em;
+
 }
 
 .site .header h1.title a {
@@ -90,10 +91,12 @@ ul.posts span {
 
 .site .header h1.title a:hover {
   /*color: #000;*/
-  color: #a6ddb9;
+  /*color: #a6ddb9;*/
+  color: #aaa;
 }
 
 .site .header a.extra {
+
   color: #aaa;
   margin-left: 1em;
 }
@@ -101,6 +104,22 @@ ul.posts span {
 .site .header a.extra:hover {
   color: #000;
 }
+
+.site .header .opening-quote {
+  font-family: 'Droid Serif', serif;
+  font-size: 1em;
+  color: black;
+  margin: 0em 5em 1em 5em;
+  border-top: 1px dotted black;
+  border-bottom: 1px dotted black;
+  text-align: center;
+}
+
+
+.site .header .nav {
+  text-align: left;
+}
+
 
 .site .meta {
   color: #aaa;
