@@ -50,7 +50,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: 'Droid Serif', serif;
   font-size: 80%;
 }
 
@@ -81,7 +81,7 @@ ul.posts span {
 
 .site .header h1.title {
   font-size: 3em;
-
+  font-variant: small-caps;
 }
 
 .site .header h1.title a {
@@ -118,6 +118,7 @@ ul.posts span {
 
 .site .header .nav {
   text-align: left;
+  font-variant: small-caps;
 }
 
 
