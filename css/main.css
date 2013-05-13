@@ -69,7 +69,8 @@ ul.posts span {
 }
 
 .site .header a {
-  font-weight: bold;
+  font: 'Oxygen', sans-serif;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -81,7 +82,6 @@ ul.posts span {
 
 .site .header h1.title a {
   /*color: #a00;*/
-  font: 'Oxygen', sans-serif;
   color: #4c9063;
 }
 
