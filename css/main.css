@@ -69,12 +69,12 @@ ul.posts span {
 }
 
 .site .header a {
-  font: 'Oxygen', sans-serif;
-  font-weight: 700;
   text-decoration: none;
 }
 
 .site .header h1.title {
+  font: 'Oxygen', sans-serif;
+  font-weight: 700;
   font-size: 2em;
   display: inline-block;
   margin-bottom: 2em;
