@@ -193,6 +193,15 @@ ul.posts span {
   background-color: #333;
 }
 
+.post-title {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+blockquote {
+   padding: 0em 5em 0em 5em;	
+	}
+
 /*****************************************************************************/
 /*
 /* List Pages
