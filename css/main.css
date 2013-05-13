@@ -202,6 +202,18 @@ blockquote {
    padding: 0em 5em 0em 5em;	
 	}
 
+/**************/
+/*
+/* Quote Posts
+/*
+/**************/
+
+.quote-info {
+ 	text-align: right;
+ 	font-family: 'Source Pro Sans', sans-serif;
+ 	font-weight: 700;
+}
+
 /*****************************************************************************/
 /*
 /* List Pages
