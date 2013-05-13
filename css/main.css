@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 'Droid Serif', serif;
+  font-family: 'Droid Serif', serif;
   font-size: 1em;
   text-align: center;
 }
@@ -73,7 +73,7 @@ ul.posts span {
 }
 
 .site .header h1.title {
-  font: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
   font-size: 2em;
   display: inline-block;
