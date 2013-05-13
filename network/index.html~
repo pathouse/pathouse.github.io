@@ -1,0 +1,105 @@
+---
+layout: listlay
+title: Circle Round [dot] Net ~ Networking Resources
+desc: You can learn all you want, but it's more or less useless if you never share it. These networking resources will help you do just that.
+heading: Network
+---
+<h2>Connect with...</h2> <!-- List 1 Begin -->
+<div class="collapsibleList"> <!-- Section 1.1 -->		
+  <h3 class="sub-title">Professionals</h3>
+  <div>
+    <p>Peer-to-peer networking on a professional level.</p>
+    <ol>
+	<li><a href="http://linkedin.com/" target="_blank">LinkedIn</a>					
+	</li>
+	<li><a href="http://branchout.com/" target="_blank">BranchOut</a>					
+	</li>	
+	<li><a href="http://ohours.org/" target="_blank">Open Office Hours</a>
+	</li>
+	<li><a href="http://letslunch.com/" target="_blank">Lets Lunch</a>
+	</li>
+	<li><a href="http://www.glassdoor.com/" target="_blank">GlassDoor</a>
+	</li>
+	<li><a href="http://www.internmatch.com/" target="_blank">InternMatch</a>
+	</li>
+	<li><a href="http://assetmap.com/" target="_blank">AssetMap</a>
+	</li>
+    </ol>
+  </div> <!-- End Section 1.1 Section 1.2 -->
+  <h3 class="sub-title">Mentors</h3>
+  <div>
+    <p>Find peers to teach or to learn from.</p>
+    <ol>
+	<li><a href="http://www.studentmentor.org/" target="_blank">Student Mentor</a>					
+	</li>
+	<li><a href="https://github.com/dianakimball/mentoring" target="_blank">GitHub Mentoring</a>
+	</li>
+	<li><a href="http://hackny.org/a/" target="_blank">HackNY</a>
+	</li>
+    </ol>
+  </div> <!-- End Section 1.2 Section 1.3 -->
+  <h3 class="sub-title">Doers</h3>
+  <div>
+    <p>Do stuff, make stuff, and go places with others.</p>
+    <ol>
+	<li><a href="http://www.volunteermatch.org/" target="_blank">VolunteerMatch</a>					
+	</li>
+	<li><a href="http://www.wwoof.org/" target="_blank">Worldwide Opps on Organic Farms</a>
+	</li>
+	<li><a href="http://www.couchsurfing.org/" target="_blank">CouchSurfing</a>
+	</li>
+	<li><a href="http://www.meetup.com/find/" target="_blank">MeetUp</a>					
+	</li>
+	<li><a href="https://www.grubwithus.com/" target="_blank">Grub with Us</a>
+	</li>
+	<li><a href="http://www.adoptahacker.com/" target="_blank">Adopt a Hacker</a>
+	</li>
+	<li><a href="http://www.vayable.com/" target="_blank">Vayable</a>
+	</li>
+	<li><a href="http://www.sparked.com/" target="_blank">Sparked</a>
+	</li>
+	<li><a href="http://www.rebellioustruths.org/" target="_blank">Rebellious Truths</a>
+	</li>
+    </ol>
+  </div> <!-- End Section 1.3 Section 1.4 -->						
+</div> <!-- End List 1 -->
+<br />
+<h2>Share with...</h2> <!-- List 2 Begin -->
+<div class="collapsibleList"> <!-- Section 2.1 -->		
+  <h3 class="sub-title">Creatives</h3>
+  <div>
+    <p>Get those creative juices flowing.</p>
+    <ol>
+	<li><a href="http://www.behance.net/" target="_blank">Behance</a></li>
+        <li><a href="http://dribbble.com/" target="_blank">Dribbble</a></li>
+	<li><a href="http://www.kickstarter.com/" target="_blank">Kickstarter</a></li>
+    </ol>
+  </div> <!-- End Section 2.1 Section 2.2 -->
+  <h3 class="sub-title">Professionals</h3>
+  <div>
+    <p>Serious business.</p>
+    <ol>
+	<li><a href="http://www.mixtent.com/" target="_blank">Mixtent</a></li>
+	<li><a href="http://www.honestly.com/" target="_blank">Honestly</a></li>
+	<li><a href="http://www.zerply.com/" target="_blank">Zerply</a></li>
+    </ol>
+  </div> <!-- End Section 2.2 Section 2.3 -->
+  <h3 class="sub-title">Doers</h3>
+  <div>
+    <p>Share what you do with those who do.</p>
+    <ol>
+	<li><a href="http://smarterer.com/" target="_blank">Smarterer</a></li>
+	<li><a href="http://www.taskrabbit.com/" target="_blank">Task Rabbit</a></li>
+	<li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    </ol>
+  </div> <!-- End Section 2.3 Section 2.4 -->
+  <h3 class="sub-title">Educators</h3>
+  <div>
+    <p>Share with fellow educators and students.</p>
+    <ol>
+	<li><a href="http://www.learningcounts.org/" target="_blank">Learning Counts</a></li>
+	<li><a href="http://knext.com/" target="_blank">Knext</a></li>
+	<li><a href="http://collegeunbound.org/" target="_blank">College Bound</a></li>
+    </ol>
+  </div> <!-- End Section 2.4 -->
+</div> <!-- End List 2 -->

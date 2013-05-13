@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Google Web Fonts -->
+        <!-- 'Oxygen' sans-serif (Bold 700), 'Droid Serif', serif (Normal 400) -->
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:700|Droid+Serif' rel='stylesheet' type='text/css'>
+
+        <!-- jQuery UI - Collapsible List -->
+        <link rel="stylesheet" href="/css/jquery-ui-1.10.3.custom.css">
+        <link rel="stylesheet" href="/css/jquery-ui-1.10.3.custom.min.css">
+        <script src="/scripts/jquery-1.9.1.js"></script>
+        <script src="/scripts/jquery-ui-1.10.3.custom.js"></script>
+	<script src="/scripts/jquery-ui-1.10.3.custom.min.js"></script>
+	<script>
+		$(function() {
+			$( ".collapsibleList" ).accordion();			
+                });
+	</script>
+
+    </head>
+    <body>
+    <div class="container">
+      <div class="site">
+        <div class="header">
+          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+          <div class="nav">{% include nav.html %}                
+          </div>
+        </div>
+    <div class="heading"><h2> {{ page.heading }} </h2></div>
+    <div class="about">
+       <h3 class="sub-title">About</h3>
+       <p>{{ page.desc }}</p>
+    </div>
+    <div class="listwrapper"> {{ content }} </div> 
+    <div class="footer">
+       <div class="contact">
+          <p>
+            Pat McGee<br />
+            Writer, Developer, Educator<br />
+            patmcgee331@gmail.com
+          </p>
+       </div>
+       <div class="contact">
+          <p>
+            <a href="http://github.com/pathouse">github.com/pathouse</a><br />
+            <a href="http://twitter.com/giantshoulders">twitter.com/giantshoulders</a><br />
+          </p>
+       </div>
+    </div> <!-- /footer -->
+    </div> <!-- /site -->
+    </div> <!-- /container -->
+    </body>
+</html>
+
+

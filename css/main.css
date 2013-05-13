@@ -192,3 +192,44 @@ ul.posts span {
 #post pre.terminal code {
   background-color: #333;
 }
+
+/*****************************************************************************/
+/*
+/* List Pages
+/*
+/*****************************************************************************/
+
+.heading {
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.75em;
+	color: #4c9063;
+	margin-left: 9em;
+	margin-right: 9em;
+	border-top: 1px dotted black;
+	border-bottom: 1px dotted black;
+	}
+
+.collapsibleList .sub-title {
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-variant: small-caps;
+  font-size: 1em;
+  border: 1px solid #4c9063;
+	}
+	
+.collapsibleList p,li {
+	font-family: 'Droid Serif', serif;	
+	}	
+
+.collapsibleList li{
+   color: #696d6b;	
+	}
+
+.collapsibleList a:hover, .ted-desc:hover{
+	color: #4c9063;
+	}
+
+.ted-desc{
+   color: #696d6b;
+	}
