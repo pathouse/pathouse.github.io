@@ -14,8 +14,8 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font: 'Droid Serif', serif;
+  font-size: 1em;
   text-align: center;
 }
 
@@ -74,16 +74,19 @@ ul.posts span {
 }
 
 .site .header h1.title {
+  font-size: 2em;
   display: inline-block;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #a00;
+  /*color: #a00;*/
+  color: #4c9063;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  /*color: #000;*/
+  color: #a6ddb9;
 }
 
 .site .header a.extra {
