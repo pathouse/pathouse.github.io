@@ -92,7 +92,8 @@ ul.posts span {
 .site .header h1.title a:hover {
   /*color: #000;*/
   /*color: #a6ddb9;*/
-  color: #aaa;
+  /*color: #aaa;*/
+  color: #93c572;
 }
 
 .site .header a.extra {
