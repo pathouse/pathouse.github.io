@@ -98,12 +98,12 @@ ul.posts span {
 
 .site .header a.extra {
 
-  color: #aaa;
+  color: #000;
   margin-left: 1em;
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: #4c9063;
 }
 
 .site .header .opening-quote {
@@ -120,6 +120,7 @@ ul.posts span {
 .site .header .nav {
   text-align: left;
   font-variant: small-caps;
+  border-bottom: 1px solid #4c9063;
 }
 
 
