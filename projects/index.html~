@@ -1,0 +1,22 @@
+---
+layout: default
+title: Circle Round [dot] Net ~ Projects
+heading: Projects
+desc: Here you'll find the various projects that I'm currently working on. 
+---
+
+<div class="heading">
+  <h2> {{ page.heading }} </h2>
+</div>
+<div class="about">
+  <h3 class="sub-title">About</h3>
+  <p>{{ page.desc }}</p>
+</div>
+
+<div id="projects">
+  <ul>
+    <li><a href="/big-shoulders/">The Big Shoulders Project</a><br />
+      <p>The Big Shoulders Project is based on the notion that we all stand upon the shoulders of giants. We can't thank the giants that have come before, but we can thank the ones that are alive and working to make the world a better place today.<p>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,25 @@
+---
+layout: default
+title: Circle Round [dot] Net ~ Projects ~ Big Shoulders
+heading: The Big Shoulders Project
+desc: Reaching out and thanking the big shoulders we all stand on.
+---
+
+<div class="heading">
+  <h2> {{ page.heading }} </h2>
+</div>
+<div class="about">
+  <h3 class="sub-title">About</h3>
+  <p>{{ page.desc }}</p>
+  <blockquote>"We are like dwarfs sitting on the shoulders of giants. We see more, and things that are more distant, than they did, not because our sight is superior or because we are taller than they, but because they raise us up, and by their great stature add to ours."<br />
+                          -- <em>John of Salisbury</em></blockquote>
+</div>
+<br />
+<div id="big-shoulder-letters">
+  <h1>Letters</h1>
+  <ul class="posts">
+    {% for post in site.categories.letters %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -264,6 +264,18 @@ blockquote {
 	text-align: center;	
 	}
 
+/**************/
+/*
+/* Letter Posts
+/*
+/**************/
+ 
+.return {
+   margin: 1em 4em 1em;
+   text-align: center;
+   border-top: 1px solid #4c9063;
+   font-family: 'Source Pro Sans', sans-serif;
+	} 
  
 /*****************************************************************************/
 /*
