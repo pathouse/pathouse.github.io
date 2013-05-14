@@ -214,6 +214,46 @@ blockquote {
  	font-weight: 700;
 }
 
+/**************/
+/*
+/* Link Posts
+/*
+/**************/ 	
+
+.link {
+   text-align: center;
+   margin: 1em 15em 0em;
+   padding: 10px 10px 0px 10px;	
+   box-shadow: 1px 1px 2px #000;
+	}
+
+.link a{
+   font-family: 'Droid Serif', serif;
+   text-decoration: none;
+   color: #0aaaba;
+   font-size: 3em;
+   font-weight: 700;	
+	}
+ 	
+.link a:hover{
+   color: #4c9063;
+	} 	
+	
+/**************/
+/*
+/* Book Posts
+/*
+/**************/ 
+
+.book-pic {
+	text-align: center;
+	margin-bottom: 2em;
+	}
+
+.words h2{
+	font-size: 1.5em;	
+	}
+
 /*****************************************************************************/
 /*
 /* List Pages

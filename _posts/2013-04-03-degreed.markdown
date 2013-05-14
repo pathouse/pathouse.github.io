@@ -1,0 +1,10 @@
+---
+layout: link-post
+title: "Degreed"
+date: 2013-04-03 13:12:24
+categories: articles
+tags: moocs online education degreed transcript courses
+context: "http://degreed.com/about/"
+---
+
+You should use Degreed because I want them to succeed. That was not an intentional rhyme, however, I don’t regret it. As a lover of MOOCs and free education, it’s natural that I also love Degreed, which proposes a means for recognizing all of the learning we do outside of traditional institutions.

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h2 class="post-title">{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div id="post">
+    <div class="book-pic"><img src={{ page.bookpic1 }} alt={{ page.bookdesc1 }}></img>
+                       <img src={{ page.bookpic2 }} alt={{ page.bookdesc2 }}></img>
+    </div>
+    <div class="words">{{ content }}</div>
+</div>
