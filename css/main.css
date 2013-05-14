@@ -305,3 +305,32 @@ blockquote {
 .ted-desc{
    color: #696d6b;
 	}
+	
+/*****************************************************************************/
+/*
+/* Profiles Page
+/*
+/*****************************************************************************/
+
+#profiles table {
+	margin: 1em 4em 1em;
+	}
+
+#profiles td {
+   padding: 1em;
+   box-shadow: 1px 1px 2px #000;	
+	}
+
+#profiles td:hover{
+	background-color: 	#fffb70;
+	}
+
+#profiles a{
+   font-family: 'Source Pro Sans', sans-serif;
+   font-size: 2em;
+   font-weight: 700;
+   color: #0aaaba; 	
+   text-decoration: none;
+   font-variant: small-caps;
+   
+	}
