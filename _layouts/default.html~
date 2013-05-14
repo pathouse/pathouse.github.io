@@ -12,6 +12,10 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <!-- Google Web Fonts -->
+        <!-- 'Oxygen' sans-serif (Bold 700), 'Droid Serif', serif (Normal 400) -->
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:700|Droid+Serif' rel='stylesheet' type='text/css'>
+
     </head>
     <body>
 
@@ -19,7 +23,10 @@
           <div class="site">
             <div class="header">
               <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
+              <div class="opening-quote">"Genius Round the World Stands Hand in Hand,
+              But One Shock of Recognition Runs the Whole Circle Round" -- Herman Melville</div>
+              <div class="nav"> {% include nav.html %}                 
+              </div>
             </div>
      
                 {{ content }}
@@ -34,8 +41,8 @@
               </div>
               <div class="contact">
                 <p>
-                  <a href="http://github.com/yourusername/">github.com/pathouse</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/giantshoulders</a><br />
+                  <a href="http://github.com/pathouse">github.com/pathouse</a><br />
+                  <a href="http://twitter.com/giantshoulders">twitter.com/giantshoulders</a><br />
                 </p>
               </div>
             </div>
