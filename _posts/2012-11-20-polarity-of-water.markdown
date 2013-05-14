@@ -2,7 +2,7 @@
 layout: post
 title: "The Polarity of Water"
 date: 2012-11-20 12:00:00
-categories: tldr
+categories: tldr front
 tags: water chemistry polarity science balance equality
 ---
 

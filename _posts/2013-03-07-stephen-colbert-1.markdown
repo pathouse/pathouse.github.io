@@ -2,7 +2,7 @@
 layout: quote-post
 title: "You Cannot Be Both Young and Wise"
 date: 2013-03-07 18:09:24
-categories: wise-words
+categories: wise-words front
 tags: stephen colbert commencement youth wisdom experience
 speaker: "Stephen Colbert"
 context: "http://www.alternet.org/story/37144/stephen_colbert%27s_address_to_the_graduates"

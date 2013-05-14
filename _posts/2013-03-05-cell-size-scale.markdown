@@ -2,7 +2,7 @@
 layout: link-post
 title: "Cell Size and Scale"
 date: 2013-03-05 14:22:23
-categories: articles
+categories: articles front
 tags: cell size scale biology
 context: "http://learn.genetics.utah.edu/content/begin/cells/scale/"
 ---

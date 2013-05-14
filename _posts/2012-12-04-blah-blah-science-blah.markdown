@@ -2,7 +2,7 @@
 layout: post
 title: "Blah Blah Science Blah"
 date: 2012-12-04 18:09:09
-categories: tldr
+categories: tldr front
 tags: science education eric kandel neuroscience scientific journals information
 ---
 

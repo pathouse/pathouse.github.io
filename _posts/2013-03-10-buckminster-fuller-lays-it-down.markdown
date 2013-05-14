@@ -2,7 +2,7 @@
 layout: link-post
 title: "Buckminster Fuller Lays it Down"
 date: 2013-03-10 09:15:27
-categories: articles
+categories: articles front
 tags: buckminster fuller brainpickings synergistics
 context: "http://www.brainpickings.org/index.php/2013/03/08/buckminster-fuller-synergetics/"
 ---

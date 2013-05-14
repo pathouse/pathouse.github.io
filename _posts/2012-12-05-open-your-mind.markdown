@@ -2,7 +2,7 @@
 layout: post
 title: "Open Your Mind Without Losing Your Head"
 date: 2012-12-05 19:18:17
-categories: tldr
+categories: tldr front
 tags: eclectic esoteric education knowledge open minded understanding learning
 ---
 

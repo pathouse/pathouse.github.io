@@ -2,7 +2,7 @@
 layout: link-post
 title: "Degreed"
 date: 2013-04-03 13:12:24
-categories: articles
+categories: articles front
 tags: moocs online education degreed transcript courses
 context: "http://degreed.com/about/"
 ---

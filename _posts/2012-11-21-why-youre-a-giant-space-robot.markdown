@@ -2,7 +2,7 @@
 layout: post
 title: "Why You're Essentially a Giant Space Robot"
 date: 2012-11-21 13:30:15
-categories: tldr
+categories: tldr front
 tags: biology science cells chloroplasts mitochondria constructicons endosymbiosis megazord
 ---
 

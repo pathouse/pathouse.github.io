@@ -2,7 +2,7 @@
 layout: two-book-post
 title: "Two Books, One Post"
 date: 2013-01-13 16:32:18
-categories: books
+categories: books front
 tags: the element ken robinson ignorance science stuart firestein creativity
 bookpic1: "/images/the_element.jpg"
 bookdesc1: "The Element by Ken Robinson"

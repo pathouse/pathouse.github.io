@@ -2,7 +2,7 @@
 layout: post
 title: "Objectivity and Other Hipster Plots"
 date: 2013-03-12 15:23:19
-categories: brainfart
+categories: brainfart front
 tags: objectivity bias perspective subjectivity
 ---
 

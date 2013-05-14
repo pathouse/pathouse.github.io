@@ -2,7 +2,7 @@
 layout: link-post
 title: "The Storytelling of Science"
 date: 2013-04-09 20:08:15
-categories: articles
+categories: articles front
 tags: science bill nye briane greene ira flatow lawrence krauss neal stephenson neil degrasse tyson origins richard dawkins tracy day storytelling asu
 context: "http://www.youtube.com/watch?v=_J4QPz52Sfo&list=PLusJDXY5SZhUT3THgpVAhYXSuz6rDVvnD&index=1"
 ---

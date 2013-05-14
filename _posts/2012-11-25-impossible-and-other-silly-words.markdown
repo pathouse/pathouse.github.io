@@ -2,7 +2,7 @@
 layout: post
 title: "Impossible and Other Silly Words not Worth Saying"
 date: 2012-11-25 15:02:15
-categories: brainfart
+categories: brainfart front
 tags: adaptation change failure progress success
 ---
 

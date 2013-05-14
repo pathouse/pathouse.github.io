@@ -2,7 +2,7 @@
 layout: quote-post
 title: "Learning How to Think"
 date: 2012-11-26 09:09:09
-categories: wise-words
+categories: wise-words front
 tags: david foster wallace education kenyon college commencement
 speaker: "David Foster Wallace"
 context: "http://moreintelligentlife.com/story/david-foster-wallace-in-his-own-words"

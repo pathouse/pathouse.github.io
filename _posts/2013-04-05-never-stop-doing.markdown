@@ -2,7 +2,7 @@
 layout: post
 title: "Never. Stop. Doing."
 date: 2013-04-05 14:11:05
-categories: brainfart
+categories: brainfart front
 tags: action failure motion improvement
 ---
 

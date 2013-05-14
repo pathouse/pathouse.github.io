@@ -2,7 +2,7 @@
 layout: quote-post
 title: "A Thing That Might Have to Be Killed"
 date: 2012-11-29 17:19:21
-categories: wise-words
+categories: wise-words front
 tags: hunter thompson fear
 speaker: "Hunter S. Thompson"
 context: "http://www.amazon.com/Kingdom-Fear-Loathsome-Star-Crossed-American/dp/0684873249"

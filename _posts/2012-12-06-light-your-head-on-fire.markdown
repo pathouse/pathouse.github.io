@@ -2,7 +2,7 @@
 layout: post
 title: "More Than One Way to Light Your Head on Fire"
 date: 2012-12-06 14:25:19
-categories: tldr
+categories: tldr front
 tags: education science alternative learning montessori steiner summerhill waldorf
 ---
 

@@ -2,7 +2,7 @@
 layout: quote-post
 title: "Relativity, Explained"
 date: 2012-12-20 14:52:19
-categories: wise-words
+categories: wise-words front
 tags: albert einstein relativity
 speaker: "Albert Einstein"
 context: "http://www.giga-usa.com/quotes/authors/albert_einstein_a001.htm"

@@ -2,7 +2,7 @@
 layout: post
 title: "The Life of Fly"
 date: 2013-03-11 14:22:23
-categories: brainfart
+categories: brainfart front
 tags: flies neuroscience science michael dickinson
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Great Big Ideas"
 date: 2013-04-20 19:24:32
-categories: brainfart
+categories: brainfart front
 tags: floating university great big ideas 
 ---
 

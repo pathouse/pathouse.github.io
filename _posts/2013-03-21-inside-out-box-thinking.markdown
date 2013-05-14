@@ -2,7 +2,7 @@
 layout: post
 title: "You Need a Box to Think Outside of It"
 date: 2013-03-21 16:45:23
-categories: tldr
+categories: tldr front
 tags: constraints creativity limitations rules
 ---
 

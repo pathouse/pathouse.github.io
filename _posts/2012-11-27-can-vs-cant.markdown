@@ -2,7 +2,7 @@
 layout: post
 title: "Can vs. Can't"
 date: 2012-11-27 15:23:45
-categories: brainfart
+categories: brainfart front
 tags: charles babbage discovery history can can't innovation james gleick samuel morse information
 ---
 

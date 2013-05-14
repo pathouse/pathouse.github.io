@@ -2,7 +2,7 @@
 layout: book-post
 title: "More Hive Than Chapel"
 date: 2013-03-20 15:32:08
-categories: books
+categories: books front
 tags: salman khan one world schoolhouse education
 bookpic: "/images/oneworldschoolhouse.jpg"
 bookdesc: "The One World Schoolhouse by Salman Khan"

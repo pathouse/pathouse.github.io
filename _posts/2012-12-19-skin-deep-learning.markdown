@@ -2,7 +2,7 @@
 layout: link-post
 title: "Skin-Deep Learning"
 date: 2012-12-19 14:22:09 
-categories: articles
+categories: articles front
 tags: science magazine skin-deep learning education
 context: "http://www.sciencemag.org/content/338/6112/1263.full?rss=1"
 ---

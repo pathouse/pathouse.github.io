@@ -2,7 +2,7 @@
 layout: quote-post
 title: "A Tiny Lump of Impure Carbon and Water"
 date: 2013-01-03 16:45:09
-categories: wise-words
+categories: wise-words front
 tags: betrand russell man hamlet astronomer
 speaker: "Bertrand Russell"
 context: "http://books.google.com/books?id=mgO--Gjl5ZgC&dq=history+of+western+philosophy+bertran+russell&source=gbs_navlinks_s"

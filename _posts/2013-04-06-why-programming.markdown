@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Love Programming"
 date: 2013-04-06 12:10:23
-categories: brainfart
+categories: brainfart front
 tags: programming code communication education
 ---
 

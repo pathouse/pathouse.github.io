@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing is Boring"
 date: 2012-11-22 14:01:45
-categories: brainfart
+categories: brainfart front
 tags: education apathy excitement passion technology TED thanksgiving
 ---
 

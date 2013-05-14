@@ -2,7 +2,7 @@
 layout: link-post
 title: "Open Education Week 2013"
 date: 2013-03-13 09:30:24
-categories: articles
+categories: articles front
 tags: open education week
 context: "http://www.openeducationweek.org/"
 ---
