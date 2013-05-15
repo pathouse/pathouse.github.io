@@ -1,0 +1,15 @@
+---
+layout: video-post
+title: "A Hint"
+date: 2013-05-05 12:39:18
+categories: front
+tags: choices xkcd comic
+vidembed: "<img src='http://imgs.xkcd.com/comics/choices_part_4.jpg'></img>"
+---
+
+In my opinion, [xkcd][] is one of the greatest comics ever penned and this is one of my favorites. 
+
+src: [http://xkcd.com/267/](http://xkcd.com/267/)
+
+
+[xkcd]: http://xkcd.com/
