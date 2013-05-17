@@ -57,5 +57,12 @@ op-quote-sp: "Linus Pauling"
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul> <!-- /articles -->
+  <h1>Book Reviews</h1>
+  <p>Books that I've read and what I think about them.</p>
+  <ul class="posts">
+    {% for post in site.categories.books %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul> <!-- /books -->
      
 </div> <!-- /home -->
