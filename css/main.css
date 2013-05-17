@@ -355,18 +355,18 @@ blockquote {
 
 .proj-status {
    color: #025076;
-	margin: 1em 4em 1em;
+   margin: 1em 4em 1em;
    border: 1px solid black;	
-	padding: .5em;
-	background-color: #d9ffb4;
-	font-size: .85em;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: normal;
+   padding: .5em;
+   background-color: #d9ffb4;
+   font-size: .85em;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-weight: normal;
 	}
 
 .status-desc {
-	margin: 2em 2em 2em;
-	font-style: italic;
+   margin: 2em 2em 2em;
+   font-style: italic;
 	}
 
 
