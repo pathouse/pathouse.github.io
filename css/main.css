@@ -230,15 +230,15 @@ blockquote {
 .link a{
    font-family: 'Droid Serif', serif;
    text-decoration: none;
-   color: #0aaaba;
+   color: #025076;
    font-size: 3em;
    font-weight: 700;	
 	}
- 	
-.link a:hover{
-   color: #4c9063;
-	} 	
 	
+.link:hover {
+	background-color: #d9ffb4;	
+	}
+ 		
 /**************/
 /*
 /* Book Posts
@@ -334,14 +334,14 @@ blockquote {
 	}
 
 #profiles td:hover{
-	background-color: 	#fffb70;
+	background-color: #d9ffb4;
 	}
 
 #profiles a{
    font-family: 'Source Pro Sans', sans-serif;
    font-size: 2em;
    font-weight: 700;
-   color: #0aaaba; 	
+   color: #025076; 	
    text-decoration: none;
    font-variant: small-caps;
    
