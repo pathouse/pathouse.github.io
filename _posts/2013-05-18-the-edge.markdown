@@ -1,0 +1,15 @@
+---
+layout: video-post
+title: The Edge
+date: 2013-05-18 17:44:00
+categories: video front
+tags: hunter thompson the edge gonzo animation
+vidembed: "<iframe src='http://player.vimeo.com/video/57094153' width='400' height='300' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+## Never Enough HST
+
+I've read every book ever published by Hunter S. Thompson, and most of those published about him. Naturally, when I came across this video on [BrainPickings.org][1] I felt compelled to post it. Kudos for a job well done to visual artist [Piotr Kabat][2].
+
+[1]: http://www.brainpickings.org/index.php/2013/01/15/the-edge-hunter-s-thompson-animation/
+[2]: http://pkabat.com/
