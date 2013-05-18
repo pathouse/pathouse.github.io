@@ -1,0 +1,38 @@
+---
+layout: post-default
+title: "More Adventures in Ruby"
+date: 2013-05-18 12:11:22
+categories: brainfart front
+tags: ruby neo koans programming code
+---
+
+## Another Day, Another Ruby Tutorial
+
+So, today marks my second day of juevos-to-the-wall Ruby edification. I completed the [Ruby track on Codecademy][1] about a month ago to familiarize myself with the language, but it wasn't until 2 days ago, when I appled to [App Academy][2], that I began seriously digging into the language. 
+
+[1]: http://www.codecademy.com/tracks/ruby "Ruby Track at Codecademy"
+[2]: http://www.appacademy.io/#p-home "App Academy"
+
+### My Journey So Far...
+
+[Yesterday][3] I discovered \_why's guide to my great surprise and delight, and today I'd like to talk about a guide that Monty Python might introduce by saying ["And now for something completely different..."][4]
+
+[3]: {{ site.url }}/books/front/2013/05/17/poignant-ruby.html "Poignant Ruby"
+[4]: http://www.youtube.com/watch?v=K2P86C-1x3o "And Now for Something Completely Different"
+
+## Neo Ruby Koans
+
+Where \_why's guide introduces an element of whimsy I'd never encountered in a programming book before, [Neo Ruby Koans][5] is all Zen. Like any good Zen master, the authors of this excellent guide don't teach you in the traditional manner. Instead, they essentially trick you into teaching yourself. 
+
+![Ruby Koans in Action][6]
+
+### Put a Number on the Wall...
+
+Ruby Koans is genius, in my opinion, for 2 main reasons: 
+
+1. __Test Driven Learning__ - Not only are you given incomplete code to fix, you are given incomplete tests to fix. Tests were something I had almost no experience with as an undergrad, yet they're extremely important. Even if you're not into TDD, if you want to contribute to Open Source software, you're going to need to write tests to prove your code does what it says it does. 
+2. __Measured Progress__ - I've spent most of my time figuring out how to make the code work by fooling around in the interactive ruby shell. However, as opposed to doing the same thing on my own, Ruby Koans gives me a) direction and b) a measurement of my progress. In my experience, this makes all of the difference. 
+
+
+[5]: http://rubykoans.com/ "Neo Ruby Koans"
+[6]: {{ site.url }}/images/ruby-koans-in-action.png 
