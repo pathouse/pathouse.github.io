@@ -66,6 +66,7 @@ ul.posts span {
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  
 }
 
 .site .header {
@@ -73,6 +74,7 @@ ul.posts span {
   font-weight: 700;
   margin-bottom: 2em;
   text-align: center;
+  
 }
 
 .site .header a {
@@ -82,6 +84,7 @@ ul.posts span {
 .site .header h1.title {
   font-size: 3em;
   font-variant: small-caps;
+ 
 }
 
 .site .header h1.title a {
@@ -199,7 +202,9 @@ ul.posts span {
 }
 
 blockquote {
-   padding: 0em 5em 0em 5em;	
+   margin: 0em 5em 0em 5em;
+   padding: .5em;	
+   background-color: #eef6f4;
 	}
 
 /**************/
