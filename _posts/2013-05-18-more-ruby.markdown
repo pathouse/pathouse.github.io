@@ -1,6 +1,6 @@
 ---
-layout: post-default
-title: "More Adventures in Ruby"
+layout: post
+title: More Adventures in Ruby
 date: 2013-05-18 12:11:22
 categories: brainfart front
 tags: ruby neo koans programming code
