@@ -322,6 +322,32 @@ blockquote {
 .ted-desc{
    color: #696d6b;
 	}
+
+/**********************************************/
+/*
+/* Bootcamp Table List
+/*
+/**********************************************/
+
+#bootcamp-table {
+	background-color: #eeeeee;
+	padding: .5em 1em .5em;
+	margin: 0em 4em 0em;
+	border-radius: 5px;
+	border: 1px solid #b7bcb5;
+}
+
+#bootcamp-table td {
+	padding: 0em 2em 0em;
+}
+
+#bootcamp-table a {
+	color: black;
+}
+
+#bootcamp-table a:hover{
+	color: #4c9063;
+}
 	
 /*****************************************************************************/
 /*
