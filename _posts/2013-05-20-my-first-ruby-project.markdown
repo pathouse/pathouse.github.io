@@ -19,11 +19,13 @@ I love Ruby. After 3 years of dealing with Java as an undergrad, I thought I had
 So, as a firm believer of the mantra "What get's measured gets managed." I've played around with a number of different ways of tracking my progress through given tasks. 
 
 The whiteboard method was ok...
+
 ![The Whiteboard Method][1]
 
 But not my favorite, and useless once the number of tasks I needed to track exceeded the space on the board.
 
 Currently, I use the infamous text-file method:
+
 ![The Text File Method][2]
 
 Eagle-eyed viewers will note I took that screenshot while writing this post. Anyway...
@@ -40,6 +42,8 @@ I know, I'm hard to please. Anyway, I figured I'd just take advantage of the fac
 
 ## My results
 
+![Ruby Ruby Ruby][5]
+
 It's far from finished. Currently it's not interactive at all, and I have to wipe and rebuild the main html and css file manually every time I want to update it. But it took me 6 hours and I'm happy, so I put it on [GitHub][3] and I wrote this post and now I'm going to sleep. 
  
 Oh yeah, proper attribution and whatnot - I got the CSS for the progress bars from [here][4]
@@ -48,4 +52,5 @@ Oh yeah, proper attribution and whatnot - I got the CSS for the progress bars fr
 [2]: {{ site.url }}/images/da-text-file.png
 [3]: https://github.com/pathouse/task-tracker
 [4]: http://stackoverflow.com/questions/7190898/progress-bar-with-html-and-css
+[5]: {{ site.url }}/images/da-ruby-project.png
 
