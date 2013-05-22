@@ -48,6 +48,29 @@ ul.posts li {
   line-height: 1.75em;
 }
 
+ul.posts a, a:visited {
+	text-decoration: none;
+	color: #000; 
+}
+
+ul li a {
+	text-decoration: none;
+	color: #000; 
+}
+
+ul li {
+	/*color: #07566d;*/ 
+}
+
+ul.posts a:hover {
+	color: #07566d;
+	border-left: 3px solid #07566d;
+	border-right: 3px solid #07566d;
+	background-color: #e9fbfa;
+	border-radius: 20px;
+	padding: .25em 2em .25em 2em;
+}
+
 ul.posts span {
   color: #aaa;
   font-family: 'Droid Serif', serif;
@@ -66,7 +89,6 @@ ul.posts span {
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
-  
 }
 
 .site .header {
@@ -74,7 +96,10 @@ ul.posts span {
   font-weight: 700;
   margin-bottom: 2em;
   text-align: center;
-  
+	padding: 1em 1em 0em 1em; 
+	border-bottom: 3px solid #07566d;
+	background-color: #e9fbfa;
+	border-radius: 20px;
 }
 
 .site .header a {
@@ -89,15 +114,11 @@ ul.posts span {
 
 .site .header h1.title a {
   /*color: #a00;*/
-  color: #4c9063;
+  /*color: #4c9063;*/
+	color: #07566d;
 }
 
-.site .header h1.title a:hover {
-  /*color: #000;*/
-  /*color: #a6ddb9;*/
-  /*color: #aaa;*/
-  color: #93c572;
-}
+
 
 .site .header a.extra {
 
@@ -106,7 +127,8 @@ ul.posts span {
 }
 
 .site .header a.extra:hover {
-  color: #4c9063;
+  /*color: #4c9063;*/
+	color: #07566d;
 }
 
 .site .header .opening-quote {
@@ -123,7 +145,7 @@ ul.posts span {
 .site .header .nav {
   text-align: left;
   font-variant: small-caps;
-  border-bottom: 1px solid #4c9063;
+  /*border-bottom: 3px solid #4c9063;*/
 }
 
 
@@ -134,9 +156,13 @@ ul.posts span {
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  /*border-top: 4px solid #eee;*/
   margin-top: 2em;
   overflow: hidden;
+	border-top: 3px solid #07566d;
+	background-color: #e9fbfa;
+	border-radius: 20px;
+	padding-left: 1em;
 }
 
 .site .footer .contact {
@@ -292,7 +318,7 @@ blockquote {
 	text-align: center;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.75em;
-	color: #4c9063;
+	color: #07566d;
 	margin-left: 9em;
 	margin-right: 9em;
 	border-top: 1px dotted black;
@@ -304,7 +330,8 @@ blockquote {
   font-family: 'Source Sans Pro', sans-serif;
   font-variant: small-caps;
   font-size: 1em;
-  border: 1px solid #4c9063;
+  border: 3px solid #07566d;
+	background-color: #e9fbfa;
 	}
 	
 .collapsibleList p,li {
@@ -316,7 +343,7 @@ blockquote {
 	}
 
 .collapsibleList a:hover, .ted-desc:hover{
-	color: #4c9063;
+	color: #07566d;
 	}
 
 .ted-desc{
@@ -365,7 +392,8 @@ blockquote {
 	}
 
 #profiles td:hover{
-	background-color: #d9ffb4;
+	/*background-color: #d9ffb4;*/
+	background-color: #e9fbfa;
 	}
 
 #profiles a{
@@ -401,8 +429,15 @@ blockquote {
 	}
 
 
+/*********************************************************************************/
+/*
+/* Read Page
+/*
+/*********************************************************************************/
 
-
+.author-sp {
+	color: #07566d;
+}
 
 
 
