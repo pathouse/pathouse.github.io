@@ -1,0 +1,12 @@
+--- 
+layout: link-post
+title: "Schedule: Booked Solid"
+date: 2013-05-26 13:26:00
+categories: front
+tags: codeschool programming geek pride new relic
+context: "http://www.codeschool.com/free-weekend"
+---
+
+Yesterday, I was occupied with familial obligations. Today, I am occupied by the fact that Codeschool is offering all of their classes for free this weekend. So, naturally, I will be panting mightily as I attempt to consume as much material as possible before the clock strikes midnight. I imagine this is how Cinderella must have felt, except only my fingers will be doing the dancing in this scenario.
+
+
