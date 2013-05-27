@@ -51,7 +51,7 @@ As of today, it's been just over 2 months since I decided to return to programmi
 
 ## Consistency 
 
-The answer is not straightforward or simple. I've matured quite a bit, and in many ways I'm not the same person I was when I entered college. I'm more focused, more serious, more driven, etc. etc. But there are many similarities between the way I approach programming now and the way I first approached it in highschool - consistency. 
+The answer is not straightforward or simple. I've matured quite a bit, and in many ways I'm not the same person I was when I entered college. I'm more focused, more serious, more driven, etc. etc. But there is one similarity between the way I approach programming now and the way I first approached it in highschool - consistency. 
 
 In high school, I took all of my classes every day, as opposed to college where I took most classes only two or three times a week, and many only once. There are some subjects that can be taught this way. Computer Science is not one of them. The kind of progress I have made over the past two months has me convinced that the value of daily practice cannot be replaced or replicated by other means. 
 
