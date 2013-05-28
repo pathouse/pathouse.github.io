@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font-family: 'Droid Serif', serif;
+  font-family: /*'Droid Serif',*/serif;
   font-size: small;
   text-align: center;
 }
@@ -63,17 +63,17 @@ ul li {
 }
 
 ul.posts a:hover {
-	color: #07566d;
+	/*color: #07566d;*/
 	border-left: 3px solid #07566d;
 	border-right: 3px solid #07566d;
-	background-color: #e9fbfa;
+	/*background-color: #e9fbfa;*/
 	border-radius: 20px;
-	padding: .25em 2em .25em 2em;
+	padding: 0em .5em 0em .5em;
 }
 
 ul.posts span {
   color: #aaa;
-  font-family: 'Droid Serif', serif;
+  font-family: /*'Droid Serif',*/ serif;
   font-size: 80%;
 }
 
@@ -92,7 +92,7 @@ ul.posts span {
 }
 
 .site .header {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: /*'Source Sans Pro',*/ sans-serif;
   font-weight: 700;
   margin-bottom: 2em;
   text-align: center;
@@ -132,7 +132,7 @@ ul.posts span {
 }
 
 .site .header .opening-quote {
-  font-family: 'Droid Serif', serif;
+  font-family: /*'Droid Serif',*/ serif;
   font-size: 1em;
   color: black;
   margin: 0em 5em 1em 5em;
@@ -241,7 +241,7 @@ blockquote {
 
 .quote-info {
  	text-align: right;
- 	font-family: 'Source Pro Sans', sans-serif;
+ 	font-family: /*'Source Pro Sans',*/ sans-serif;
  	font-weight: 700;
 }
 
@@ -259,7 +259,7 @@ blockquote {
 	}
 
 .link a{
-   font-family: 'Droid Serif', serif;
+   font-family: /*'Droid Serif',*/ serif;
    text-decoration: none;
    color: #025076;
    font-size: 3em;
@@ -267,7 +267,7 @@ blockquote {
 	}
 	
 .link:hover {
-	background-color: #d9ffb4;	
+	background-color: #e9fbfa;	
 	}
  		
 /**************/
@@ -305,7 +305,7 @@ blockquote {
    margin: 1em 4em 1em;
    text-align: center;
    border-top: 1px solid #4c9063;
-   font-family: 'Source Pro Sans', sans-serif;
+   font-family: /*'Source Pro Sans',*/ sans-serif;
 	} 
  
 /*****************************************************************************/
@@ -316,7 +316,7 @@ blockquote {
 
 .heading {
 	text-align: center;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: /*'Source Sans Pro',*/ sans-serif;
 	font-size: 1.75em;
 	color: #07566d;
 	margin-left: 9em;
@@ -327,7 +327,7 @@ blockquote {
 
 .collapsibleList .sub-title {
   color: black;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: /*'Source Sans Pro',*/ sans-serif;
   font-variant: small-caps;
   font-size: 1em;
   border: 3px solid #07566d;
@@ -335,15 +335,21 @@ blockquote {
 	}
 	
 .collapsibleList p,li {
-	font-family: 'Droid Serif', serif;	
+	font-family: /*'Droid Serif',*/ serif;	
 	}	
 
 .collapsibleList li{
    color: #696d6b;	
+	 
 	}
+
+.collapsibleList a{
+	text-decoration: none;
+}
 
 .collapsibleList a:hover, .ted-desc:hover{
 	color: #07566d;
+	text-decoration: underline;
 	}
 
 .ted-desc{
@@ -373,7 +379,8 @@ blockquote {
 }
 
 #bootcamp-table a:hover{
-	color: #4c9063;
+	color: #07566d;
+	text-decoration: underline;
 }
 	
 /*****************************************************************************/
@@ -397,7 +404,7 @@ blockquote {
 	}
 
 #profiles a{
-   font-family: 'Source Pro Sans', sans-serif;
+   font-family: /*'Source Pro Sans',*/ sans-serif;
    font-size: 2em;
    font-weight: 700;
    color: #025076; 	
@@ -419,7 +426,7 @@ blockquote {
    padding: .5em;
    background-color: #d9ffb4;
    font-size: .85em;
-   font-family: 'Source Sans Pro', sans-serif;
+   font-family: /*'Source Sans Pro',*/ sans-serif;
    font-weight: normal;
 	}
 
@@ -439,6 +446,9 @@ blockquote {
 	color: #07566d;
 }
 
+.author-sp:hover{
+	text-decoration: underline;
+}
 
 
 
