@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mission: Suck Less Than Yesterday
+title: "Mission: Suck Less Than Yesterday"
 date: 2013-05-28 13:17:00
 categories: brainfart front
 tags: programming code algorithms practice suck less
