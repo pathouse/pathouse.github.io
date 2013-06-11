@@ -29,7 +29,7 @@ Naturally, I thoroughly enjoyed [this story][4] in which he defeats a man with a
 
 ### Math & Computer Graphics
 
-Speaking of Math, if you've got an hour to kill and you've always wondered about the math that powers computer graphics then [Steven Witten's presentation][5] from [Web Directions Code][6], recently held in Melbourne. 
+Speaking of Math, if you've got an hour to kill and you've always wondered about the math that powers computer graphics then [Steven Witten's presentation][5] from [Web Directions Code][6], recently held in Melbourne, is the video you've been looking for. 
 
 [5]: https://www.youtube.com/watch?v=Zkx1aKv2z8o
 [6]: http://www.webdirections.org/
