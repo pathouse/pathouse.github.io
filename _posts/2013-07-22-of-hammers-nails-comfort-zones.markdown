@@ -17,6 +17,7 @@ You're in luck. I'm so tired I don't even have the energy for wild tangents. It'
 * **Metaprogramming** - At first I was all like &#8220;ahhhhhhh" and now I'm all like &#8220;yessss." Definitely risk of hammer-nail syndrome here (explain that in a minute) but I have a side project idea that should prevent me from going overboard and metaprogramming myself so deep into a dream I never wake up.
 * **Resque Workers** - Wrote my first one of [these bad boys](https://github.com/resque/resque ""). It broke almost immediately. Then I fixed it, so it's almost like I learned this twice.
 * **Counter Cache &amp; Stale Info** - while setting up a counter cache for one of our data models, I learned an important lesson about working with young, web technologies: constant state of flux = never trust a demo that's six years old.
+
 ### Hammer-Nail Syndrome
 I don't know if I just made this up and I'm really clever or if it's already a thing. Too tired to Google. Basically, it's when you learn something cool and new (for me, SQL and metaprogramming) and you have the impulse to try and use it to solve every problem that comes along. You have a hammer, and everything looks like a nail. Solution: Take a deep breath. Congrats on finding that hammer, now put it away until you actually need it.
 
