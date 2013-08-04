@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Rage Against Your Machine
+title: "Don't Rage Against Your Machine"
 date: 2013-07-15  5:25:52
 categories: tldr front
 tags: programming web developer web development ruby on rails code coding testing javascript learning
