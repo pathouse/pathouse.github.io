@@ -16,7 +16,7 @@ The most important thing I have learned so far is that speed is not a goal. Corr
 It is true that there are many things in programming that you can only learn via repeated head-bashing. Beating your head faster does not make this process any quicker, and might actually slow it down. Deep breaths, goosfraba, follow the method calls, etc. etc. Aesop might come off as a bit preachy but when you're trying to wrap your head around an unfamiliar codebase (especially one wrought with rails-witchcraft) slow and steady actually does win the race.
 
 ### This is Good News
-If I had come into this internship and sat down and learned the codebase in a day and started writing lines of code at a mile a minute and worked 4-hour days (with 2 hour naps) and had enough time to write 14 blog posts a week, that would be **bad news **for reasons I don't think I need to explain.
+If I had come into this internship and sat down and learned the codebase in a day and started writing lines of code at a mile a minute and worked 4-hour days (with 2 hour naps) and had enough time to write 14 blog posts a week, that would be **bad news** for reasons I don't think I need to explain.
 
 Instead, I'm working long hours, getting handed problems I understand very little of (from a code perspective), being told to "figure it out," then making mistakes and being told to fix them, and this is all **good news**.
 
