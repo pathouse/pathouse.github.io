@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Refactor How You Think
+title: 'Refactor How You Think'
 date: 2013-06-16  2:23:00
 categories: tldr front
 tags: programming internship code learning refactoring education
