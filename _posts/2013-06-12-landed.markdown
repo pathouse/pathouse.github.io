@@ -15,7 +15,7 @@ Now, by "the adventure" I mean the "real-life-work-out-of-an-office" kind of adv
 * **20011**- A moment of crisis. The CS program is small, I have no confidence in my education, I switch majors at the last minute.
 * **2012**- Graduate as an English major with a CS minor. Start a freelance copywriting business. Immediately miss school and start taking online classes in my free time.
 * **April, 2013**- After exploring a wide range of possible careers/futures, it's become clear that programming is what I really love to do. More online courses ensue. Copywriting effectively ends.
-* **June, 2013**- After a little over 2 months of 12-hour days of full-immersion programming with web development technologies like Ruby, Rails, HTML, CSS, JavaScript, jQuery, git, etc. etc. etc. all of the hard work finally pays off and I'm offered an internship at [Artsicle](http://www.artsicle.com "")
+* **June, 2013**- After a little over 2 months of 12-hour days of full-immersion programming with web development technologies like Ruby, Rails, HTML, CSS, JavaScript, jQuery, git, etc. etc. etc. all of the hard work finally pays off and I'm offered an internship at [Artsicle](http://www.artsicle.com)
 
 ### The Reason
 The reason I'm explaining all of this, and the reason I'm writing this blog, is not to talk all about myself and how awesome I think I am. I want to share my experiences and the lessons I've learned because I know there are a ton of other people out there like me who might not have any idea what they want to do with their lives. It's OK. Just keep grinding and you'll find your way.

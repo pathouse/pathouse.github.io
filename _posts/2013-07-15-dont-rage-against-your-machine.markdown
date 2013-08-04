@@ -11,11 +11,11 @@ What did I do this week? I wrote tests. So now we know two things. First, I wrot
 ### A Whole New World
 When you're working with a testing framework called **Jasmine** and you've seen Aladdin as many times as I have (many times), it's hard not to make that your first header, and the header of the page on the company wiki, and many other things beside.
 
-Alright, enough with the tangents. Onward and upward. Yes, so, I learned, through many trials and many errors, how to get [Jasmine](https://github.com/pivotal/jasmine "") up and running and working with our Rails app. Though, it's never really quite as simple as a single framework, as young neophyte programmers like myself quickly learn. What I ended up putting into place was a combination of the [Jasmine-Rails Gem](https://github.com/searls/jasmine-rails "") and three helper JavaScript files:
+Alright, enough with the tangents. Onward and upward. Yes, so, I learned, through many trials and many errors, how to get [Jasmine](https://github.com/pivotal/jasmine) up and running and working with our Rails app. Though, it's never really quite as simple as a single framework, as young neophyte programmers like myself quickly learn. What I ended up putting into place was a combination of the [Jasmine-Rails Gem](https://github.com/searls/jasmine-rails) and three helper JavaScript files:
 
-* [Jasmine-Fixture](https://github.com/searls/jasmine-fixture "")
-* [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery "")
-* [Jasmine-Ajax](https://github.com/pivotal/jasmine-ajax "")
+* [Jasmine-Fixture](https://github.com/searls/jasmine-fixture)
+* [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery)
+* [Jasmine-Ajax](https://github.com/pivotal/jasmine-ajax)
 
 Each of which extends Jasmine's capabilities in some way. They should all be obvious except maybe Jasmine Fixtures, so I'll just tell you right now - it lets you programmatically append elements to the DOM within your tests so you don't have to write separate HTML files.
 
