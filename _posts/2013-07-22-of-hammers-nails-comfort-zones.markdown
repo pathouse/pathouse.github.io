@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Of Hammers, Nails, & Comfort Zones'
+title: "Of Hammers, Nails, & Comfort Zones"
 date: 2013-07-22  4:32:00
 categories: tldr front
 tags: resque programming code coding rails ruby ruby on rails web developer web development metaprogramming internship intern startup beginners mind

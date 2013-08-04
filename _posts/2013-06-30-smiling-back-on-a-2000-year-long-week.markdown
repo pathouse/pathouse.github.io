@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smiling Back on a 2000 Year Long Week'
+title: "Smiling Back on a 2000 Year Long Week"
 date: 2013-06-30  4:50:00
 categories: tldr front
 tags: programming backend front end development javascript ruby on rails sql web developer web development code internship full stack
