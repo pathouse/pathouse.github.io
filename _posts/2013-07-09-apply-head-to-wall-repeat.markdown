@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apply Head to Wall. Repeat. 
+title: 'Apply Head to Wall. Repeat.'
 date: 2013-07-09 23:49:56
 categories: brainfart front
 tags: programming web development developers ruby on rails code coding
