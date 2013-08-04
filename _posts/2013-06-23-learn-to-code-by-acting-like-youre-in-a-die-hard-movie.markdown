@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learn to Code by Acting Like You're in a Die Hard Movie'
+title: "Learn to Code by Acting Like You're in a Die Hard Movie"
 date: 2013-06-23 20:38:00
 categories: tldr front
 tags: programming coding code rails web development mvc internship learning
