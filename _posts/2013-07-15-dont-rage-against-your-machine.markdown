@@ -16,6 +16,7 @@ Alright, enough with the tangents. Onward and upward. Yes, so, I learned, throug
 * [Jasmine-Fixture](https://github.com/searls/jasmine-fixture "")
 * [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery "")
 * [Jasmine-Ajax](https://github.com/pivotal/jasmine-ajax "")
+
 Each of which extends Jasmine's capabilities in some way. They should all be obvious except maybe Jasmine Fixtures, so I'll just tell you right now - it lets you programmatically append elements to the DOM within your tests so you don't have to write separate HTML files.
 
 Jasmine tests JavaScript. Testing in general is a pain because of all of the necessary "environment simulation" or whatever you want to call it, but testing JavaScript is extremely painful. **Pain and gain, baby. Pain. And. Gain.**
