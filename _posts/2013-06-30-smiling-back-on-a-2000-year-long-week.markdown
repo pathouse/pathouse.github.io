@@ -13,7 +13,7 @@ The first part of my week, which, if my feelings are correct, was about 2 millen
 
 **HTML**, **ERB**, and **CSS** were the least intimidating parts of the whole thing, and it was really cool writing **Sassy CSS** styles to match a web page to a design mockup. **JavaScript**, on the other hand, was a language that I had spent almost zero time working with in the real world. The same goes for **CoffeeScript**, even though its reason for existence is to make writing JavaScript more fun.
 
-So I did what I have learned to do so well - try - and I eventually figured it out. Later in the week my boss gave me an awesome book - **[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do "") ** - and reading it actually changed my perspective a great deal.
+So I did what I have learned to do so well - try - and I eventually figured it out. Later in the week my boss gave me an awesome book - [**JavaScript: The Good Parts**](http://shop.oreilly.com/product/9780596517748.do "") - and reading it actually changed my perspective a great deal.
 
 ### Take it Back Now Yall
 After that, I hit a problem that required me to write my first **SQL queries**. Having learned SQL, I must say how awesome it is that Rails writes queries for you the majority of the time, however, I found it to be strangely enjoyable. I picked it up very quickly and loved how fast it returned results compared to what I'd been doing before (dealing with entire Ruby objects tied to those database tables).
