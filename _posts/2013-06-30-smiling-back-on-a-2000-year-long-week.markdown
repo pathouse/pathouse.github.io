@@ -31,7 +31,7 @@ Anyway, have you been reading this? Look at all this jargon… SQL? Queries? Sta
 
 *Am I a real programmer now?*
 
-Sometimes I feel like my response should be "*Hell to the Yes,*" and other times it's more like "*Psh, build shit for 2 more years and then we'll talk.*" And can I argue with the second voice? I mean, after all, consider what I thought I could build a month ago (nothing), consider what I am building today (stuff) and then consider what I could be building 2 years from now (exponentially more and better stuff).
+Sometimes I feel like my response should be *"Hell to the Yes,"* and other times it's more like *"Psh, build shit for 2 more years and then we'll talk."* And can I argue with the second voice? I mean, after all, consider what I thought I could build a month ago (nothing), consider what I am building today (stuff) and then consider what I could be building 2 years from now (exponentially more and better stuff).
 
 I've decided to solve this conundrum by throwing out the question altogether. At the end of the day, it doesn't really matter whether other people think I'm a programmer or not. You are what you do, and I "do" programming something like 10 hours a day, 5 days a week. Wam, bam, thank you ma'am.
 
