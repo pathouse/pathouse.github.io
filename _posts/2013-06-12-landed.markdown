@@ -1,0 +1,25 @@
+---
+layout: post
+title: Landed
+date: 2013-06-12 16:40:00
+categories: tldr front
+tags: internship artsicle art web development web developer ruby on rails programming
+---
+
+One year after graduating college, the adventure finally begins.
+
+Now, by "the adventure" I mean the "real-life-work-out-of-an-office" kind of adventure. I'd been leading my own strange kind of adventure previously, but now, as they say, ish has gotten real.
+
+### Quick Recap
+* **2008**- enrolled at Fairfield U as a CS major
+* **20011**- A moment of crisis. The CS program is small, I have no confidence in my education, I switch majors at the last minute.
+* **2012**- Graduate as an English major with a CS minor. Start a freelance copywriting business. Immediately miss school and start taking online classes in my free time.
+* **April, 2013**- After exploring a wide range of possible careers/futures, it's become clear that programming is what I really love to do. More online courses ensue. Copywriting effectively ends.
+* **June, 2013**- After a little over 2 months of 12-hour days of full-immersion programming with web development technologies like Ruby, Rails, HTML, CSS, JavaScript, jQuery, git, etc. etc. etc. all of the hard work finally pays off and I'm offered an internship at [Artsicle](http://www.artsicle.com "")
+### The Reason
+The reason I'm explaining all of this, and the reason I&#8217;m writing this blog, is not to talk all about myself and how awesome I think I am. I want to share my experiences and the lessons I've learned because I know there are a ton of other people out there like me who might not have any idea what they want to do with their lives. It's OK. Just keep grinding and you'll find your way.
+
+### Work
+That's what the rest of this blog is going to be about. Work. Work, work, work and everything I learn along the way. Boom shakalaka. Let the good times roll.
+
+Originally posted on [Tumblr](http://patmcintern.tumblr.com/post/52797396592/landed)
