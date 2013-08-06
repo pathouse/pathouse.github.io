@@ -1,24 +1,25 @@
 ---
-layout: home
+layout: default
 title: House of Pathouse
+op-quote: "Genius Round the World Stands Hand in Hand, But One Shock of Recognition Runs the Whole Circle Round"
+op-quote-sp: "Herman Melville"
 ---
 
 
 <div class="row">
-	<div class="col-lg-2"></div>
 	<div class="col-lg-8">
 	  <h1>Recent Posts</h1>
 	  <div class="row">
 	    {% for post in site.categories.front limit:4 %}
-	      <div class="col-lg-3">{{ post.date | date_to_string }}<br><a href="{{ post.url }}">{{ post.title }}</a></div>
+	      <div class="col-lg-3 hover-color">{{ post.date | date_to_string }}<br><a href="{{ post.url }}">{{ post.title }}</a></div>
 	    {% endfor %}
 	  </div>
 	  <br />
 	  <div class="row">
 	  {% for post in site.categories.front offset:4 limit:4 %}
-	  	<div class="col-lg-3">{{ post.date | date_to_string }}<br><a href="{{ post.url }}">{{ post.title }}</a></div>
+	  	<div class="col-lg-3 hover-color">{{ post.date | date_to_string }}<br><a href="{{ post.url }}">{{ post.title }}</a></div>
 	  {% endfor %}
 	  </div>
 	</div>
-	<div class="col-lg-2"></div>
+	<div class="col-lg-4"></div>
 </div>

@@ -7,46 +7,45 @@ op-quote: "The best way to have a good idea is to have lots of ideas."
 op-quote-sp: "Linus Pauling"
 ---
 
-<div class="heading"><h2> {{ page.heading }} </h2></div>
-  <p>{{ page.desc }}</p>
-<div id="home">
-  <h1>Too Long; Didn't Read</h1>
-  <p>Lengthier posts on various topics.</p>
-  <ul class="posts">
-    {% for post in site.categories.tldr %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul> <!-- /tldr -->
-  <br />
-  <h1>Brainfart</h1>
-  <p>Short, sweet, and (hopefully) to-the-point.</p>
-  <ul class="posts">
-    {% for post in site.categories.brainfart %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul> <!-- /brainfart -->
-  <br />
-  <h1>Quotes</h1>
-  <p>I am a lover and collector of quotes. These are some of my favorites.</p>
-  <ul class="posts">
-    {% for post in site.categories.wise-words %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul> <!-- /quotes -->
-  <br />
-  <h1>Articles</h1>
-  <p>Links to specific articles and blog posts I thought were worth sharing.</p>
-  <ul class="posts">
-    {% for post in site.categories.articles %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul> <!-- /articles -->
-  <h1>Book Reviews</h1>
-  <p>Books that I've read and what I think about them.</p>
-  <ul class="posts">
-    {% for post in site.categories.books %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul> <!-- /books -->
-     
-</div> <!-- /home -->
+<h1> {{ page.heading }} </h1>
+<p>{{ page.desc }}</p>
+
+<h2>Too Long; Didn't Read</h2>
+<p>Lengthier posts on various topics.</p>
+<ul class="posts">
+  {% for post in site.categories.tldr %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> <!-- /tldr -->
+
+<h2>Brainfart</h2>
+<p>Short, sweet, and (hopefully) to-the-point.</p>
+<ul class="posts">
+  {% for post in site.categories.brainfart %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> <!-- /brainfart -->
+
+<h2>Quotes</h2>
+<p>I am a lover and collector of quotes. These are some of my favorites.</p>
+<ul class="posts">
+  {% for post in site.categories.wise-words %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> <!-- /quotes -->
+
+<h2>Articles</h2>
+<p>Links to specific articles and blog posts I thought were worth sharing.</p>
+<ul class="posts">
+  {% for post in site.categories.articles %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> <!-- /articles -->
+  
+<h2>Book Reviews</h2>
+<p>Books that I've read and what I think about them.</p>
+<ul class="posts">
+  {% for post in site.categories.books %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> <!-- /books -->
