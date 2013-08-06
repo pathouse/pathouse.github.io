@@ -6,14 +6,15 @@
           <div class="site">
             <div class="header">
               {% include common/title.html %}
-              <div class="opening-quote">"{{ page.op-quote }}" -- {{ page.op-quote-sp }}</div>
+              <blockquote><p>"{{ page.op-quote }}"</p>
+              <small>{{ page.op-quote-sp }}</small></blockquote>
               <div class="nav"> {% include nav.html %}                 
               </div>
             </div>
      
                 {{ content }}
 
-            {% include footer.html %}
+            {% include common/footer.html %}
           </div>
         </div> <!-- /container -->
 

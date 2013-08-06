@@ -5,6 +5,7 @@ layout: post-default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div id="post">
-  <div class="big-quote">{{ content }}</div>
-  <div class="quote-info">--{{ page.speaker }} from <a href={{ page.context }} target="_blank">here</a></div>
+  <blockquote><p>{{ content }}</p>
+  <small>{{ page.speaker }} from <a href={{ page.context }} target="_blank">here</a></small>
+  </blockquote>
 </div>
