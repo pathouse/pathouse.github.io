@@ -1,0 +1,41 @@
+/*
+ * COLORS
+ * ======
+ * blue - #04859d
+ * orange  - #ff4900
+ * light orange - #ff8040
+ * grayish background hover - #eeeeee
+ *
+ */
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #04859d;
+}
+
+a, 
+strong {
+	color: #ff4900;
+}
+
+a:hover {
+	color: #04859d;
+	text-decoration: none;
+}
+
+.hover-color {
+	height: 90px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+
+.hover-color:hover {
+	background-color: #eeeeee;
+}
