@@ -4,6 +4,8 @@ title: "Impossible and Other Silly Words not Worth Saying"
 date: 2012-11-25 15:02:15
 categories: brainfart front
 tags: adaptation change failure progress success
+op-quote: "One can never know for sure what a deserted area looks like."
+op-quote-sp: "George Carlin"
 ---
 
 ## Unafraid to Fail
