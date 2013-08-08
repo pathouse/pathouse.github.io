@@ -4,6 +4,8 @@ title: "Of Hammers, Nails, & Comfort Zones"
 date: 2013-07-22  4:32:00
 categories: tldr front
 tags: resque programming code coding rails ruby ruby on rails web developer web development metaprogramming internship
+op-quote: "Not only is the universe queerer than we suppose, it is queerer than we can suppose."
+op-quote-sp: "J. B. S. Haldeman"
 ---
 
 Blog post number 7. BAM, look at that bacon sizzle (unless you're a vegan, in which case, look at that tofu wobble and forget about the bacon). Anyway, big things poppin' this week. As always. And it was the first weekend that I was non-exhausted enough to do some extra-curricular coding so that's pretty freakin' sweet. But more on that later…
