@@ -4,6 +4,8 @@ title: "Don't Rage Against Your Machine"
 date: 2013-07-15  5:25:52
 categories: tldr front
 tags: programming web developer web development ruby on rails code coding testing javascript learning
+op-quote: "An experiment that proves a hypothesis is a measurement. One that doesn't is a discovery."
+op-quote-sp: "Enrico Fermi"
 ---
 
 What did I do this week? I wrote tests. So now we know two things. First, I wrote tests (well I learned a new testing framework and then I wrote tests, technically, and the learning took much more time than the writing, but I digress). Where was I? Ah yes. First, I wrote **Tests**. Second, I work for a company called **Artsicle**. Put two and two together, mix it in with my penchant for clever titles, and you have a recipe for a gleefully immature punstravaganza. It was so hard for me not to indulge this whim. Thank you for appreciating my will power.
