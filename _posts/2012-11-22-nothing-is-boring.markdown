@@ -4,6 +4,8 @@ title: "Nothing is Boring"
 date: 2012-11-22 14:01:45
 categories: brainfart front
 tags: education apathy excitement passion technology TED thanksgiving
+op-quote: "I know one thing, that I know nothing."
+op-quote-sp: "Socrates"
 ---
 
 Growing up, I never understood how some people spent their lives doing things like measuring the number of atoms in 12 grams of carbon 12 or rolling balls down incline planes to make sure they adhered to Newton’s laws of motion. I thought that at least 90% of what they taught in schools was “boring.”
