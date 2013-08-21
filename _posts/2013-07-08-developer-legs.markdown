@@ -4,6 +4,8 @@ title: "Developer Legs"
 date: 2013-07-08  0:47:20
 categories: tldr front
 tags: web developer web development Full stack saas social media ruby on rails programming
+op-quote: "Learning without thought is labor lost; thought without learning is perilous."
+op-quote-sp: Confucius
 ---
 
 So, it's been a month. This is blog post number five. I think I've finally gotten whatever the developer's equivalent of "sea legs" are (developer legs?). The Fear is making fewer and fewer appearances, or maybe I'm just so used to it that I hardly notice anymore. Either way, I'm settling in and getting to work. But make no mistake, things are not getting easier (and that's a **good thing**). Now, let's get to it.

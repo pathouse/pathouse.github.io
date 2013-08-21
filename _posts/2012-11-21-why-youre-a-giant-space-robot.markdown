@@ -4,6 +4,8 @@ title: "Why You're Essentially a Giant Space Robot"
 date: 2012-11-21 13:30:15
 categories: tldr front
 tags: biology science cells chloroplasts mitochondria constructicons endosymbiosis megazord
+op-quote: "Is man what he seems to the astronomer, a tiny lump of impure carbon and water crawling impotently on a small and unimportant planet? Or is he what he appears to Hamlet? Is he perhaps both at once?"
+op-quote-sp: "Bertrand Russell" 
 ---
 
 ## Television These Days...

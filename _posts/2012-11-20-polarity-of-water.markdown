@@ -4,6 +4,8 @@ title: "The Polarity of Water"
 date: 2012-11-20 12:00:00
 categories: tldr front
 tags: water chemistry polarity science balance equality
+op-quote: "As soon as something seems the most obvious thing in the world, it means we have abandoned all attempts at understanding it."
+op-quote-sp: "Bertolt Brecht"
 ---
 
 ## H 2 the Izzo
