@@ -9,6 +9,7 @@ op-quote-sp: "G.K. Chesterton"
 ---
 
 *Originally posted on [Medium][]*
+*Brainstormed and drafted on [Gingko][]*
 
 It consists of three simple promises:
 
@@ -86,5 +87,6 @@ Three simple promises:
 + I will not give up before I try. 
 
 [medium]: https://medium.com/architecting-a-life/688656cb5f7f
+[gingko]: https://gingkoapp.com/blog-post-the-students-oath
 [tumblr]: http://patmcintern.tumblr.com/
 [this article]: http://www.brainpickings.org/index.php/2013/09/13/clive-thompson-smarter-than-you-think/ 
