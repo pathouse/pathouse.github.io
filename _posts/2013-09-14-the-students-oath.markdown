@@ -8,8 +8,9 @@ op-quote: "An adventure is only an inconvenience rightly considered. An inconven
 op-quote-sp: "G.K. Chesterton"
 ---
 
-*Originally posted on [Medium][]*
-*Brainstormed and drafted on [Gingko][]*
+> *Originally posted on [Medium][]*
+> 
+> *Brainstormed and drafted on [Gingko][]*
 
 It consists of three simple promises:
 
