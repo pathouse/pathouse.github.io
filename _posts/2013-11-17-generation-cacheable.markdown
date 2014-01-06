@@ -6,7 +6,7 @@ categories: project
 tags: rubygems ruby caching rails
 op-quote: "There is an art, or rather a knack to flying. The knack lies in learning how to throw yourself at the ground and miss. Pick a nice day and try it."
 op-quote-sp: "Douglas Adams"
-project-href: "http://github.com/pathouse/generation-cacheable"
+project-href: "http://github.com/pathouse/generation_cacheable"
 link-title: "View on Github"
 ---
 
