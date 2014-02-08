@@ -47,7 +47,7 @@ link-title: "View on Github"
 <!-- END SIGMA IMPORTS -->
 <script src="../scripts/sigma-js/plugins/sigma.parsers.json/sigma.parsers.json.js"></script>
 <script>
-  sigma.parsers.json('data/coords_formatted.json', {
+  sigma.parsers.json('../scripts/data/coords_formatted.json', {
     container: 'graph-container'
   });
 </script>
