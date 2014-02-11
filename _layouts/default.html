@@ -1,37 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
     {% include common/head.html %}
-    <body>
-
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <div class="row">
-                <div class="col-lg-5">
-                  {% include common/title.html %}
-                  {% if page.op-quote %}
-                    <blockquote>
-                      <p>
-                        "{{ page.op-quote }}"
-                      </p>
-                      <small>{{ page.op-quote-sp }}</small>
-                    </blockquote>
-                  {% endif %}        
-                </div>
-                <div class="col-lg-7"></div>
-              </div>        
-            </div>
-            <div class="row">
-              <div class="col-lg-2">
-                {% include common/nav.html %} 
-              </div>
-              <div class="col-lg-10">
-                {{ content }}
-            {% include common/footer.html %}
-              </div>
-            </div>
+    <body class="bg-silver">
+      <div class="container">
+        <div class="header">
+          {% include common/title.html %}
+        </div>
+        <div class="row">
+          <div class="col-lg-2">
+            {% include common/social.html %}
           </div>
-        </div> <!-- /container -->
-
+          <div class="col-lg-10">
+            {{ content }}
+          </div>
+      </div>
     </body>
 </html>
