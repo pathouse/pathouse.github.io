@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pat McGee
-email: patmcgee@dogparklabs.com
+email: patmcgee@gooddog.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pat McGee, Writes Mainly Code
+  Pat McGee, Writes. Mainly Code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://patmcgee.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pathouse
