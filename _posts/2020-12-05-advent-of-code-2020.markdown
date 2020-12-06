@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Advent of Code 2020"
+date:   2020-12-05 23:07:38 -0500
+categories: advent-of-code twitch streaming
+---
+
+This year I decided to try out live streaming my work on [Advent of Code 2020](https://www.adventofcode.com/2020)
+
+There's a lot of very cool AoC content out there, ranging from the kind of competitive programming that will get you
+on to the leaderboard, to code golf, to 3d visualizations of elves on toboggans crashing into trees.
+
+My goal isn't to be incredibly fast or incredibly breif or incredibly creative. I'm writing code as if I want to ship it to production
+so I want it to be:
++ well factored
++ easy to understand
++ tested
+
+Hopefully I achieve some of those things.
+
+I'm solving problems in Ruby initially since that's my mother tongue,
+but I like to go back and revisit old problems in languages that I am learning as well.
+
++ [Twitch](https://www.twitch.tv/porkchopsandwich)
++ [Youtube](https://www.youtube.com/c/PatMcGee/)
++ [Github](https://github.com/pathouse/AdventOfCode2020)
