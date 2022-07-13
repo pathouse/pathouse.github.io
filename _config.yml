@@ -16,9 +16,11 @@
 title: Pat McGee
 email: patmcgee@gooddog.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pat McGee, Writes. Mainly Code
+  Thou preparest a table before me with DDL
+  Thou annoinest my head tag with metadata
+  My stack floweth over
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://patmcgee.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://patmcgee.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pathouse
 
 # Build settings
