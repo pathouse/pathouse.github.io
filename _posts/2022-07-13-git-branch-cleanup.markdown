@@ -10,10 +10,12 @@ If you are like me then you are bad about cleaning up your git branches.
 Then you want to switch to one so you type `git branch` and are overwhelmed by dozens of similarly named branches.
 
 So you want to clean them up - but everyone online is suggesting you do something like
+
 ```
 $> git checkout main
 $> git branch --merged | xargs git branch -D
 ```
+
 to automatically delete all branches not merged into main
 
 But you know you have branches not merged into main you want to keep! and automatically deleting a bunch of things feels bad!
@@ -44,7 +46,4 @@ alias gbc="git_branch_cleanup"
 
 It's a "zsh" script and not a "bash" script because there are some differences in the `read` command.
 In bash you specify prompt string with `read -p "prompt"`, in zsh it's `read "?prompt"`
-
-
-
 
